@@ -86,4 +86,4 @@ on live client projects in a professional environment.
 
 ---
 
-⭐ *"Building one project at a time towards ₹20 LPA"* 🚀
+
