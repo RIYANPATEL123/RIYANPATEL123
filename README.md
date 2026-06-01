@@ -1,7 +1,6 @@
 # Hi, I'm Riyan Patel 👋
 
 🎓 B.Tech CSE (AI & ML) @ VIT Vellore | 2nd Year (2024–2028)  
-💼 Software Development Intern @ Skytus Abrama  
 🤖 Passionate about AI/ML and Full Stack Development  
 📍 Gujarat, India  
 
@@ -19,7 +18,6 @@
 
 **Frameworks & Tools**  
 ![React](https://img.shields.io/badge/ReactJS-20232A?style=flat&logo=react&logoColor=61DAFB)
-![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -41,16 +39,7 @@ calorie tracker, water intake, and analytics dashboard.
 🔗 [Live Demo](https://nutri-trackpro.netlify.app) •
 [Code](https://github.com/RIYANPATEL123/NutriTrack-pro)
 
----
 
-### 🗄️ SQL with Python — Internship Work
-Real-world SQL concepts implemented with Python during
-internship at Skytus Abrama. Covers joins, subqueries,
-transactions, aggregations and real world case studies.  
-**Tech:** Python • SQL  
-🔗 [Code](https://github.com/RIYANPATEL123/skytus_sql_)
-
----
 
 ### 🌐 Gundlav School Website
 Fully responsive multi-page school website with teacher
@@ -60,15 +49,7 @@ with JavaScript validation.
 🔗 [Live Demo](https://riyanpatel123.github.io/GundlavSchool/) •
 [Code](https://github.com/RIYANPATEL123/GundlavSchool)
 
----
 
-## 💼 Experience
-
-**Software Development Intern — Skytus Abrama** *(2025)*  
-Working with Python, SQL, ReactJS and .NET Core
-on live client projects in a professional environment.
-
----
 
 ## 📊 Currently Learning
 
